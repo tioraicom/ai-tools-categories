@@ -4,6 +4,27 @@ Notable changes to this taxonomy. Typo fixes and small wording tweaks are not lo
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 1.1.0 — 2026-09-04
+
+### Added
+
+- The full taxonomy in both READMEs. All 182 categories now render on the page, grouped
+  under their top-level parent and sorted by name, with each subcategory's description and
+  slug. The section is generated from `data/categories.json`, so it cannot disagree with the
+  data files.
+- Arabic names and descriptions for all 182 categories, written in Arabic rather than
+  translated from the English line.
+
+### Changed
+
+- `Contents` in both editions now lists the twenty top-level categories, so a reader reaches
+  any group in one click.
+
+### Removed
+
+- The top-level-only summary table, superseded by the full listing. Reading the taxonomy no
+  longer requires downloading a data file.
+
 ## 1.0.0 — 2026-09-04
 
 Initial public-ready release.

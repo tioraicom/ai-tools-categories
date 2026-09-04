@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/tioraicom/ai-tools-categories/blob/main/data/categories.json",
+  "title": "TiorAI AI Tool Category Taxonomy",
+  "description": "One record per category, at either of two levels. The prose documentation of these fields is the Schema section of README.md; this file is the version a consumer validates against. Adding, removing, renaming, or retyping a field is a major version bump, so a diff of this file is a diff of the contract.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "name",
+      "slug",
+      "parent",
+      "level",
+      "description",
+      "aliases",
+      "children",
+      "last_reviewed"
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Display name, sentence case."
+      },
+      "slug": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+        "description": "Stable identifier, derived from the name and unique across both levels."
+      },
+      "parent": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Slug of the level-1 parent, or null at level 1."
+      },
+      "level": {
+        "enum": [
+          1,
+          2
+        ],
+        "description": "1 or 2. There is deliberately no level 3."
+      },
+      "description": {
+        "type": "string",
+        "minLength": 1,
+        "description": "One sentence, 5 to 22 words, ending in a full stop."
+      },
+      "aliases": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Other names the same category goes by, including American spellings and common abbreviations."
+      },
+      "children": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Slugs of level-2 children. Empty at level 2."
+      },
+      "last_reviewed": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      }
+    }
+  }
+}

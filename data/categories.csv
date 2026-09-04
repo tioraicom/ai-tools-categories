@@ -1,0 +1,21 @@
+category,slug,description,subcategories
+Writing and content,writing-and-content,"Drafting, editing, and producing written material.",9
+Image generation and editing,image-generation-and-editing,Creating and altering still images.,8
+Video,video,"Producing, editing, and repurposing moving pictures.",8
+"Audio, music, and voice",audio-music-and-voice,"Speech, sound, music, and everything else heard rather than read.",9
+Coding and development,coding-and-development,"Writing, reviewing, testing, and shipping software.",12
+Developer infrastructure and models,developer-infrastructure-and-models,What an AI application is built on.,12
+Chatbots and assistants,chatbots-and-assistants,"General conversational systems, and the interfaces people meet a model through.",7
+Automation and agents,automation-and-agents,Work that runs without a person driving each step.,7
+Productivity and workflow,productivity-and-workflow,"Getting personal and team work done: notes, meetings, mail, tasks, and time.",8
+Presentations and documents,presentations-and-documents,Producing and working with documents.,6
+Design and creative,design-and-creative,Visual and product design work.,7
+Marketing and advertising,marketing-and-advertising,Reaching and converting an audience.,10
+SEO and search,seo-and-search,"Being found in search, classic and generative.",10
+Sales and CRM,sales-and-crm,"Finding, working, and closing revenue.",7
+Customer support,customer-support,Answering and resolving customer problems.,6
+Data and analytics,data-and-analytics,"Turning data into answers, from preparation through analysis to a chart.",7
+Research and knowledge,research-and-knowledge,"Finding, reading, and synthesising sources.",8
+Education and learning,education-and-learning,"Teaching, studying, and training, in classrooms and at work.",7
+Business and finance,business-and-finance,"Running the organisation: money, people, contracts, and obligations.",8
+Health and lifestyle,health-and-lifestyle,Personal wellbeing and daily life.,6

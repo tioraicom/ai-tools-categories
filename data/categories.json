@@ -1,0 +1,2151 @@
+[
+  {
+    "name": "Writing and content",
+    "slug": "writing-and-content",
+    "parent": null,
+    "level": 1,
+    "description": "Drafting, editing, and producing written material.",
+    "aliases": [],
+    "children": [
+      "long-form-writing",
+      "copywriting",
+      "grammar-and-style-checking",
+      "paraphrasing-and-rewriting",
+      "summarisation",
+      "translation-and-localisation",
+      "scriptwriting",
+      "academic-and-technical-writing",
+      "ai-content-detection"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Long-form writing",
+    "slug": "long-form-writing",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Drafting articles, reports, books, and other extended pieces.",
+    "aliases": [
+      "article writing"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Copywriting",
+    "slug": "copywriting",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Short persuasive text for ads, landing pages, product pages, and email.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Grammar and style checking",
+    "slug": "grammar-and-style-checking",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Correcting mechanics and enforcing a consistent house style.",
+    "aliases": [
+      "proofreading"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Paraphrasing and rewriting",
+    "slug": "paraphrasing-and-rewriting",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Restating existing text at a different length, register, or reading level.",
+    "aliases": [
+      "rewriter"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Summarisation",
+    "slug": "summarisation",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Condensing documents, transcripts, or threads into their substance.",
+    "aliases": [
+      "summarization",
+      "summarizer"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Translation and localisation",
+    "slug": "translation-and-localisation",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Moving text between languages and adapting it for a local audience.",
+    "aliases": [
+      "localization",
+      "machine translation"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Scriptwriting",
+    "slug": "scriptwriting",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Writing for video, podcast, and spoken delivery.",
+    "aliases": [
+      "screenwriting"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Academic and technical writing",
+    "slug": "academic-and-technical-writing",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Papers, documentation, and other writing with citation or precision demands.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "AI content detection",
+    "slug": "ai-content-detection",
+    "parent": "writing-and-content",
+    "level": 2,
+    "description": "Estimating whether a passage was machine written.",
+    "aliases": [
+      "ai detector"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Image generation and editing",
+    "slug": "image-generation-and-editing",
+    "parent": null,
+    "level": 1,
+    "description": "Creating and altering still images.",
+    "aliases": [],
+    "children": [
+      "text-to-image",
+      "image-editing",
+      "background-removal",
+      "upscaling-and-restoration",
+      "product-photography",
+      "headshots-and-avatars",
+      "logo-and-brand-assets",
+      "image-apis"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Text to image",
+    "slug": "text-to-image",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Generating an image from a written description.",
+    "aliases": [
+      "ai art generator"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Image editing",
+    "slug": "image-editing",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Altering an existing image, including inpainting and object removal.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Background removal",
+    "slug": "background-removal",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Separating a subject from its background.",
+    "aliases": [
+      "cutout"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Upscaling and restoration",
+    "slug": "upscaling-and-restoration",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Raising resolution and repairing damaged or low-quality images.",
+    "aliases": [
+      "super resolution"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Product photography",
+    "slug": "product-photography",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Producing or improving catalogue and ecommerce imagery.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Headshots and avatars",
+    "slug": "headshots-and-avatars",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Generating portraits of a person from supplied photographs.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Logo and brand assets",
+    "slug": "logo-and-brand-assets",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Marks, icons, and vector assets for an identity.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Image APIs",
+    "slug": "image-apis",
+    "parent": "image-generation-and-editing",
+    "level": 2,
+    "description": "Programmatic access to generation and editing models.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Video",
+    "slug": "video",
+    "parent": null,
+    "level": 1,
+    "description": "Producing, editing, and repurposing moving pictures.",
+    "aliases": [],
+    "children": [
+      "text-to-video",
+      "video-editing",
+      "ai-avatars-and-presenters",
+      "dubbing-and-subtitling",
+      "clipping-and-repurposing",
+      "animation-and-motion",
+      "video-enhancement",
+      "video-apis"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Text to video",
+    "slug": "text-to-video",
+    "parent": "video",
+    "level": 2,
+    "description": "Generating footage from a written description.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Video editing",
+    "slug": "video-editing",
+    "parent": "video",
+    "level": 2,
+    "description": "Cutting, assembling, and correcting existing footage.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "AI avatars and presenters",
+    "slug": "ai-avatars-and-presenters",
+    "parent": "video",
+    "level": 2,
+    "description": "Synthetic on-camera presenters delivering a script.",
+    "aliases": [
+      "talking head"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Dubbing and subtitling",
+    "slug": "dubbing-and-subtitling",
+    "parent": "video",
+    "level": 2,
+    "description": "Translating spoken audio and matching it to the picture.",
+    "aliases": [
+      "lip sync",
+      "captions"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Clipping and repurposing",
+    "slug": "clipping-and-repurposing",
+    "parent": "video",
+    "level": 2,
+    "description": "Cutting long footage into short vertical pieces.",
+    "aliases": [
+      "shorts"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Animation and motion",
+    "slug": "animation-and-motion",
+    "parent": "video",
+    "level": 2,
+    "description": "Animating stills, characters, and motion graphics.",
+    "aliases": [
+      "motion capture"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Video enhancement",
+    "slug": "video-enhancement",
+    "parent": "video",
+    "level": 2,
+    "description": "Upscaling, stabilising, denoising, and interpolating footage.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Video APIs",
+    "slug": "video-apis",
+    "parent": "video",
+    "level": 2,
+    "description": "Programmatic access to video generation and processing.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Audio, music, and voice",
+    "slug": "audio-music-and-voice",
+    "parent": null,
+    "level": 1,
+    "description": "Speech, sound, music, and everything else heard rather than read.",
+    "aliases": [],
+    "children": [
+      "text-to-speech",
+      "speech-to-text",
+      "voice-cloning",
+      "music-generation",
+      "audio-enhancement",
+      "audio-editing-and-mastering",
+      "podcast-production",
+      "voice-agents",
+      "speech-apis"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Text to speech",
+    "slug": "text-to-speech",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Turning written text into spoken audio.",
+    "aliases": [
+      "tts",
+      "voice generation"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Speech to text",
+    "slug": "speech-to-text",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Turning spoken audio into written text.",
+    "aliases": [
+      "transcription",
+      "asr"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Voice cloning",
+    "slug": "voice-cloning",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Recreating a specific voice from a sample.",
+    "aliases": [
+      "voice changer"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Music generation",
+    "slug": "music-generation",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Composing or producing music and sound beds.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Audio enhancement",
+    "slug": "audio-enhancement",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Removing noise, echo, and artefacts from recordings.",
+    "aliases": [
+      "noise removal"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Audio editing and mastering",
+    "slug": "audio-editing-and-mastering",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Assembling, balancing, and finishing audio.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Podcast production",
+    "slug": "podcast-production",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Recording, editing, and publishing spoken-word shows.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Voice agents",
+    "slug": "voice-agents",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Systems that hold a spoken conversation and take action.",
+    "aliases": [
+      "voice bot"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Speech APIs",
+    "slug": "speech-apis",
+    "parent": "audio-music-and-voice",
+    "level": 2,
+    "description": "Programmatic access to speech recognition and synthesis.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Coding and development",
+    "slug": "coding-and-development",
+    "parent": null,
+    "level": 1,
+    "description": "Writing, reviewing, testing, and shipping software.",
+    "aliases": [],
+    "children": [
+      "code-completion",
+      "ai-code-editors",
+      "coding-agents",
+      "code-review",
+      "testing-and-qa",
+      "debugging",
+      "documentation",
+      "terminal-assistants",
+      "database-and-sql",
+      "devops-and-infrastructure",
+      "application-security",
+      "frontend-and-ui-generation"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Code completion",
+    "slug": "code-completion",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Suggesting the next lines as a developer types.",
+    "aliases": [
+      "autocomplete"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "AI code editors",
+    "slug": "ai-code-editors",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Editors and IDEs built around a model.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Coding agents",
+    "slug": "coding-agents",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Systems that carry out a coding task across several files.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Code review",
+    "slug": "code-review",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Automated review of changes before they merge.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Testing and QA",
+    "slug": "testing-and-qa",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Generating, maintaining, and running tests.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Debugging",
+    "slug": "debugging",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Locating and explaining defects in running software.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Documentation",
+    "slug": "documentation",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Generating and maintaining developer documentation.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Terminal assistants",
+    "slug": "terminal-assistants",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Model-backed tools driven from a command line.",
+    "aliases": [
+      "cli"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Database and SQL",
+    "slug": "database-and-sql",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Writing queries, designing schemas, and explaining plans.",
+    "aliases": [
+      "text to sql"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "DevOps and infrastructure",
+    "slug": "devops-and-infrastructure",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "CI/CD, infrastructure as code, incidents, and operations.",
+    "aliases": [
+      "sre"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Application security",
+    "slug": "application-security",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Finding and fixing vulnerabilities in code and dependencies.",
+    "aliases": [
+      "appsec"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Frontend and UI generation",
+    "slug": "frontend-and-ui-generation",
+    "parent": "coding-and-development",
+    "level": 2,
+    "description": "Producing interface code from a design or a description.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Developer infrastructure and models",
+    "slug": "developer-infrastructure-and-models",
+    "parent": null,
+    "level": 1,
+    "description": "What an AI application is built on.",
+    "aliases": [],
+    "children": [
+      "model-apis",
+      "model-hosting-and-serving",
+      "llm-gateways",
+      "vector-databases",
+      "rag-frameworks",
+      "agent-frameworks",
+      "evaluation-platforms",
+      "observability-and-tracing",
+      "guardrails-and-moderation",
+      "fine-tuning-platforms",
+      "prompt-management",
+      "synthetic-data"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Model APIs",
+    "slug": "model-apis",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Hosted access to language, image, speech, and embedding models.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Model hosting and serving",
+    "slug": "model-hosting-and-serving",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Running models on managed or self-operated infrastructure.",
+    "aliases": [
+      "inference"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "LLM gateways",
+    "slug": "llm-gateways",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "A single endpoint in front of several model providers.",
+    "aliases": [
+      "proxy",
+      "router"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Vector databases",
+    "slug": "vector-databases",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Storage and nearest-neighbour search over embeddings.",
+    "aliases": [
+      "vector store"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "RAG frameworks",
+    "slug": "rag-frameworks",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Libraries for retrieval-augmented generation pipelines.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Agent frameworks",
+    "slug": "agent-frameworks",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Libraries for building systems that plan and use tools.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Evaluation platforms",
+    "slug": "evaluation-platforms",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Measuring output quality against datasets and rubrics.",
+    "aliases": [
+      "evals"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Observability and tracing",
+    "slug": "observability-and-tracing",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Recording prompts, tool calls, cost, and latency per request.",
+    "aliases": [
+      "llmops"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Guardrails and moderation",
+    "slug": "guardrails-and-moderation",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Constraining what goes into and out of a model.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Fine-tuning platforms",
+    "slug": "fine-tuning-platforms",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Adapting a base model to a task or a house style.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Prompt management",
+    "slug": "prompt-management",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Versioning, testing, and deploying prompts as artefacts.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Synthetic data",
+    "slug": "synthetic-data",
+    "parent": "developer-infrastructure-and-models",
+    "level": 2,
+    "description": "Generating training and evaluation data.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Chatbots and assistants",
+    "slug": "chatbots-and-assistants",
+    "parent": null,
+    "level": 1,
+    "description": "General conversational systems, and the interfaces people meet a model through.",
+    "aliases": [],
+    "children": [
+      "general-assistants",
+      "answer-engines",
+      "multi-model-platforms",
+      "character-and-roleplay",
+      "local-and-private-assistants",
+      "custom-assistant-builders",
+      "browser-assistants"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "General assistants",
+    "slug": "general-assistants",
+    "parent": "chatbots-and-assistants",
+    "level": 2,
+    "description": "Broad conversational products for everyday use.",
+    "aliases": [
+      "ai chatbot"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Answer engines",
+    "slug": "answer-engines",
+    "parent": "chatbots-and-assistants",
+    "level": 2,
+    "description": "Search that returns a written answer with sources.",
+    "aliases": [
+      "ai search"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Multi-model platforms",
+    "slug": "multi-model-platforms",
+    "parent": "chatbots-and-assistants",
+    "level": 2,
+    "description": "Interfaces offering several providers' models side by side.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Character and roleplay",
+    "slug": "character-and-roleplay",
+    "parent": "chatbots-and-assistants",
+    "level": 2,
+    "description": "Persona-driven conversation and interactive fiction.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Local and private assistants",
+    "slug": "local-and-private-assistants",
+    "parent": "chatbots-and-assistants",
+    "level": 2,
+    "description": "Assistants running on the user's own hardware.",
+    "aliases": [
+      "offline ai"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Custom assistant builders",
+    "slug": "custom-assistant-builders",
+    "parent": "chatbots-and-assistants",
+    "level": 2,
+    "description": "No-code tools for building a branded assistant.",
+    "aliases": [
+      "gpt builder"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Browser assistants",
+    "slug": "browser-assistants",
+    "parent": "chatbots-and-assistants",
+    "level": 2,
+    "description": "Assistants that work inside the web browser.",
+    "aliases": [
+      "browser extension"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Automation and agents",
+    "slug": "automation-and-agents",
+    "parent": null,
+    "level": 1,
+    "description": "Work that runs without a person driving each step.",
+    "aliases": [],
+    "children": [
+      "workflow-automation",
+      "browser-and-web-automation",
+      "robotic-process-automation",
+      "task-and-research-agents",
+      "internal-tools-and-app-builders",
+      "document-and-data-entry-automation",
+      "email-automation"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Workflow automation",
+    "slug": "workflow-automation",
+    "parent": "automation-and-agents",
+    "level": 2,
+    "description": "Connecting applications so a trigger causes a sequence of actions.",
+    "aliases": [
+      "ipaas"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Browser and web automation",
+    "slug": "browser-and-web-automation",
+    "parent": "automation-and-agents",
+    "level": 2,
+    "description": "Driving a browser to gather data or complete tasks.",
+    "aliases": [
+      "web scraping"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Robotic process automation",
+    "slug": "robotic-process-automation",
+    "parent": "automation-and-agents",
+    "level": 2,
+    "description": "Automating work across desktop and enterprise applications.",
+    "aliases": [
+      "rpa"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Task and research agents",
+    "slug": "task-and-research-agents",
+    "parent": "automation-and-agents",
+    "level": 2,
+    "description": "Agents that pursue a goal across several tools.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Internal tools and app builders",
+    "slug": "internal-tools-and-app-builders",
+    "parent": "automation-and-agents",
+    "level": 2,
+    "description": "Building internal interfaces over existing data.",
+    "aliases": [
+      "no-code"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Document and data entry automation",
+    "slug": "document-and-data-entry-automation",
+    "parent": "automation-and-agents",
+    "level": 2,
+    "description": "Extracting structured data from documents into systems.",
+    "aliases": [
+      "idp"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Email automation",
+    "slug": "email-automation",
+    "parent": "automation-and-agents",
+    "level": 2,
+    "description": "Triage, drafting, and routing of inbox work.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Productivity and workflow",
+    "slug": "productivity-and-workflow",
+    "parent": null,
+    "level": 1,
+    "description": "Getting personal and team work done: notes, meetings, mail, tasks, and time.",
+    "aliases": [],
+    "children": [
+      "note-taking",
+      "knowledge-management",
+      "meeting-assistants",
+      "task-and-project-management",
+      "calendar-and-scheduling",
+      "email-assistants",
+      "workplace-search",
+      "personal-automation"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Note taking",
+    "slug": "note-taking",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Capturing and organising written notes.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Knowledge management",
+    "slug": "knowledge-management",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Connecting notes, documents, and references into something searchable.",
+    "aliases": [
+      "second brain"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Meeting assistants",
+    "slug": "meeting-assistants",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Recording, transcribing, and summarising meetings.",
+    "aliases": [
+      "meeting notes"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Task and project management",
+    "slug": "task-and-project-management",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Planning, assigning, and tracking work.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Calendar and scheduling",
+    "slug": "calendar-and-scheduling",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Arranging time and coordinating availability.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Email assistants",
+    "slug": "email-assistants",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Drafting, summarising, and prioritising mail.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Workplace search",
+    "slug": "workplace-search",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Searching across the applications an organisation uses.",
+    "aliases": [
+      "enterprise search"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Personal automation",
+    "slug": "personal-automation",
+    "parent": "productivity-and-workflow",
+    "level": 2,
+    "description": "Small automations for an individual's own routine.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Presentations and documents",
+    "slug": "presentations-and-documents",
+    "parent": null,
+    "level": 1,
+    "description": "Producing and working with documents.",
+    "aliases": [],
+    "children": [
+      "presentation-generation",
+      "pdf-and-document-chat",
+      "document-extraction",
+      "contract-review",
+      "document-generation",
+      "diagrams-and-whiteboards"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Presentation generation",
+    "slug": "presentation-generation",
+    "parent": "presentations-and-documents",
+    "level": 2,
+    "description": "Building slide decks from an outline or a document.",
+    "aliases": [
+      "slides"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "PDF and document chat",
+    "slug": "pdf-and-document-chat",
+    "parent": "presentations-and-documents",
+    "level": 2,
+    "description": "Asking questions of a document and getting cited answers.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Document extraction",
+    "slug": "document-extraction",
+    "parent": "presentations-and-documents",
+    "level": 2,
+    "description": "Pulling structured fields out of forms, invoices, and contracts.",
+    "aliases": [
+      "ocr"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Contract review",
+    "slug": "contract-review",
+    "parent": "presentations-and-documents",
+    "level": 2,
+    "description": "Reading agreements for terms, risks, and deviations.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Document generation",
+    "slug": "document-generation",
+    "parent": "presentations-and-documents",
+    "level": 2,
+    "description": "Assembling documents from templates and data.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Diagrams and whiteboards",
+    "slug": "diagrams-and-whiteboards",
+    "parent": "presentations-and-documents",
+    "level": 2,
+    "description": "Producing charts, diagrams, and visual thinking surfaces.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Design and creative",
+    "slug": "design-and-creative",
+    "parent": null,
+    "level": 1,
+    "description": "Visual and product design work.",
+    "aliases": [],
+    "children": [
+      "ui-and-ux-design",
+      "prototyping",
+      "graphic-design",
+      "branding",
+      "3d-and-modelling",
+      "interior-and-architecture",
+      "design-collaboration"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "UI and UX design",
+    "slug": "ui-and-ux-design",
+    "parent": "design-and-creative",
+    "level": 2,
+    "description": "Interface layout, components, and interaction design.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Prototyping",
+    "slug": "prototyping",
+    "parent": "design-and-creative",
+    "level": 2,
+    "description": "Turning an idea into something clickable quickly.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Graphic design",
+    "slug": "graphic-design",
+    "parent": "design-and-creative",
+    "level": 2,
+    "description": "Layout and composition for print and screen.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Branding",
+    "slug": "branding",
+    "parent": "design-and-creative",
+    "level": 2,
+    "description": "Identity systems, naming, and brand guidelines.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "3D and modelling",
+    "slug": "3d-and-modelling",
+    "parent": "design-and-creative",
+    "level": 2,
+    "description": "Generating and editing three-dimensional assets.",
+    "aliases": [
+      "text to 3d"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Interior and architecture",
+    "slug": "interior-and-architecture",
+    "parent": "design-and-creative",
+    "level": 2,
+    "description": "Spaces, rendering, and architectural visualisation.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Design collaboration",
+    "slug": "design-collaboration",
+    "parent": "design-and-creative",
+    "level": 2,
+    "description": "Reviewing, handing off, and versioning design work.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Marketing and advertising",
+    "slug": "marketing-and-advertising",
+    "parent": null,
+    "level": 1,
+    "description": "Reaching and converting an audience.",
+    "aliases": [],
+    "children": [
+      "content-marketing",
+      "social-media-management",
+      "email-marketing",
+      "advertising",
+      "conversion-optimisation",
+      "marketing-analytics",
+      "audience-research",
+      "competitive-intelligence",
+      "influencer-and-affiliate",
+      "personalisation"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Content marketing",
+    "slug": "content-marketing",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Planning and producing content that earns attention.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Social media management",
+    "slug": "social-media-management",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Scheduling, publishing, and responding across social platforms.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Email marketing",
+    "slug": "email-marketing",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Campaigns, sequences, and lifecycle messaging.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Advertising",
+    "slug": "advertising",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Creating, targeting, and optimising paid campaigns.",
+    "aliases": [
+      "ppc"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Conversion optimisation",
+    "slug": "conversion-optimisation",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Improving the rate at which visitors take an action.",
+    "aliases": [
+      "cro"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Marketing analytics",
+    "slug": "marketing-analytics",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Attribution, reporting, and channel measurement.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Audience research",
+    "slug": "audience-research",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Understanding who the audience is and what they want.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Competitive intelligence",
+    "slug": "competitive-intelligence",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Tracking what competitors publish, price, and launch.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Influencer and affiliate",
+    "slug": "influencer-and-affiliate",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Finding and managing third-party promotion.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Personalisation",
+    "slug": "personalisation",
+    "parent": "marketing-and-advertising",
+    "level": 2,
+    "description": "Varying content and offers by visitor.",
+    "aliases": [
+      "personalization"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "SEO and search",
+    "slug": "seo-and-search",
+    "parent": null,
+    "level": 1,
+    "description": "Being found in search, classic and generative.",
+    "aliases": [],
+    "children": [
+      "keyword-research",
+      "content-optimisation",
+      "technical-seo",
+      "internal-linking",
+      "backlinks-and-digital-pr",
+      "rank-tracking",
+      "local-seo",
+      "structured-data",
+      "ai-search-visibility",
+      "programmatic-seo"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Keyword research",
+    "slug": "keyword-research",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Finding what an audience searches for and how often.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Content optimisation",
+    "slug": "content-optimisation",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Shaping a page to match what a query needs.",
+    "aliases": [
+      "on-page seo"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Technical SEO",
+    "slug": "technical-seo",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Crawling, indexing, structure, and page performance.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Internal linking",
+    "slug": "internal-linking",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Connecting pages so authority and readers flow between them.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Backlinks and digital PR",
+    "slug": "backlinks-and-digital-pr",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Earning and monitoring links from other sites.",
+    "aliases": [
+      "link building"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Rank tracking",
+    "slug": "rank-tracking",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Monitoring position for tracked queries over time.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Local SEO",
+    "slug": "local-seo",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Visibility in maps, local packs, and location queries.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Structured data",
+    "slug": "structured-data",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Marking pages up so machines can read their meaning.",
+    "aliases": [
+      "schema markup"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "AI search visibility",
+    "slug": "ai-search-visibility",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Appearing in generative answers and AI assistants.",
+    "aliases": [
+      "geo",
+      "aeo"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Programmatic SEO",
+    "slug": "programmatic-seo",
+    "parent": "seo-and-search",
+    "level": 2,
+    "description": "Generating and maintaining pages at scale from data.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Sales and CRM",
+    "slug": "sales-and-crm",
+    "parent": null,
+    "level": 1,
+    "description": "Finding, working, and closing revenue.",
+    "aliases": [],
+    "children": [
+      "prospecting-and-lead-generation",
+      "data-enrichment",
+      "sales-engagement",
+      "conversation-intelligence",
+      "crm-assistants",
+      "proposals-and-quoting",
+      "revenue-forecasting"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Prospecting and lead generation",
+    "slug": "prospecting-and-lead-generation",
+    "parent": "sales-and-crm",
+    "level": 2,
+    "description": "Identifying and reaching potential buyers.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Data enrichment",
+    "slug": "data-enrichment",
+    "parent": "sales-and-crm",
+    "level": 2,
+    "description": "Filling in missing detail on people and companies.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Sales engagement",
+    "slug": "sales-engagement",
+    "parent": "sales-and-crm",
+    "level": 2,
+    "description": "Sequencing and managing outbound contact.",
+    "aliases": [
+      "outbound"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Conversation intelligence",
+    "slug": "conversation-intelligence",
+    "parent": "sales-and-crm",
+    "level": 2,
+    "description": "Recording and analysing sales calls.",
+    "aliases": [
+      "call recording"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "CRM assistants",
+    "slug": "crm-assistants",
+    "parent": "sales-and-crm",
+    "level": 2,
+    "description": "Keeping the customer record current and useful.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Proposals and quoting",
+    "slug": "proposals-and-quoting",
+    "parent": "sales-and-crm",
+    "level": 2,
+    "description": "Producing quotes, proposals, and pricing documents.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Revenue forecasting",
+    "slug": "revenue-forecasting",
+    "parent": "sales-and-crm",
+    "level": 2,
+    "description": "Predicting pipeline outcomes and quota attainment.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Customer support",
+    "slug": "customer-support",
+    "parent": null,
+    "level": 1,
+    "description": "Answering and resolving customer problems.",
+    "aliases": [],
+    "children": [
+      "support-chatbots",
+      "helpdesk-assistants",
+      "knowledge-base-tools",
+      "voice-support",
+      "quality-assurance",
+      "customer-feedback-analysis"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Support chatbots",
+    "slug": "support-chatbots",
+    "parent": "customer-support",
+    "level": 2,
+    "description": "Automated answering of customer questions.",
+    "aliases": [
+      "deflection"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Helpdesk assistants",
+    "slug": "helpdesk-assistants",
+    "parent": "customer-support",
+    "level": 2,
+    "description": "Drafting, summarising, and routing inside a ticketing system.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Knowledge base tools",
+    "slug": "knowledge-base-tools",
+    "parent": "customer-support",
+    "level": 2,
+    "description": "Writing and maintaining the articles support answers from.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Voice support",
+    "slug": "voice-support",
+    "parent": "customer-support",
+    "level": 2,
+    "description": "Handling inbound and outbound calls.",
+    "aliases": [
+      "ivr"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Quality assurance",
+    "slug": "quality-assurance",
+    "parent": "customer-support",
+    "level": 2,
+    "description": "Scoring conversations against a rubric.",
+    "aliases": [
+      "support qa"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Customer feedback analysis",
+    "slug": "customer-feedback-analysis",
+    "parent": "customer-support",
+    "level": 2,
+    "description": "Finding themes across reviews, tickets, and surveys.",
+    "aliases": [
+      "voice of customer"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Data and analytics",
+    "slug": "data-and-analytics",
+    "parent": null,
+    "level": 1,
+    "description": "Turning data into answers, from preparation through analysis to a chart.",
+    "aliases": [],
+    "children": [
+      "business-intelligence",
+      "conversational-analytics",
+      "data-preparation",
+      "spreadsheets",
+      "data-visualisation",
+      "predictive-modelling",
+      "web-and-product-analytics"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Business intelligence",
+    "slug": "business-intelligence",
+    "parent": "data-and-analytics",
+    "level": 2,
+    "description": "Dashboards, metrics, and self-serve reporting.",
+    "aliases": [
+      "bi"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Conversational analytics",
+    "slug": "conversational-analytics",
+    "parent": "data-and-analytics",
+    "level": 2,
+    "description": "Asking questions of a dataset in plain language.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Data preparation",
+    "slug": "data-preparation",
+    "parent": "data-and-analytics",
+    "level": 2,
+    "description": "Cleaning, joining, and reshaping data for use.",
+    "aliases": [
+      "etl"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Spreadsheets",
+    "slug": "spreadsheets",
+    "parent": "data-and-analytics",
+    "level": 2,
+    "description": "Formula help, analysis, and automation inside a sheet.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Data visualisation",
+    "slug": "data-visualisation",
+    "parent": "data-and-analytics",
+    "level": 2,
+    "description": "Charting and presenting quantitative findings.",
+    "aliases": [
+      "visualization"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Predictive modelling",
+    "slug": "predictive-modelling",
+    "parent": "data-and-analytics",
+    "level": 2,
+    "description": "Forecasting and scoring from historical data.",
+    "aliases": [
+      "machine learning"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Web and product analytics",
+    "slug": "web-and-product-analytics",
+    "parent": "data-and-analytics",
+    "level": 2,
+    "description": "Measuring behaviour in a site or product.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Research and knowledge",
+    "slug": "research-and-knowledge",
+    "parent": null,
+    "level": 1,
+    "description": "Finding, reading, and synthesising sources.",
+    "aliases": [],
+    "children": [
+      "deep-research-agents",
+      "academic-search",
+      "citation-management",
+      "literature-review",
+      "paper-reading",
+      "market-research",
+      "fact-checking",
+      "survey-and-qualitative-research"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Deep research agents",
+    "slug": "deep-research-agents",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Multi-step research producing a cited report.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Academic search",
+    "slug": "academic-search",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Searching the scholarly literature by paper, author, and citation.",
+    "aliases": [
+      "paper search"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Citation management",
+    "slug": "citation-management",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Collecting references and formatting them.",
+    "aliases": [
+      "reference manager"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Literature review",
+    "slug": "literature-review",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Screening and synthesising evidence across many papers.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Paper reading",
+    "slug": "paper-reading",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Explaining and interrogating a single document.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Market research",
+    "slug": "market-research",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Sizing, segmenting, and understanding a market.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Fact checking",
+    "slug": "fact-checking",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Verifying claims against sources and flagging the ones that do not hold.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Survey and qualitative research",
+    "slug": "survey-and-qualitative-research",
+    "parent": "research-and-knowledge",
+    "level": 2,
+    "description": "Designing studies and analysing open-ended responses.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Education and learning",
+    "slug": "education-and-learning",
+    "parent": null,
+    "level": 1,
+    "description": "Teaching, studying, and training, in classrooms and at work.",
+    "aliases": [],
+    "children": [
+      "tutoring-and-explanation",
+      "study-tools",
+      "course-creation",
+      "lesson-planning",
+      "assessment-and-marking",
+      "language-learning",
+      "corporate-training"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Tutoring and explanation",
+    "slug": "tutoring-and-explanation",
+    "parent": "education-and-learning",
+    "level": 2,
+    "description": "Working through a subject with a learner.",
+    "aliases": [
+      "homework help"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Study tools",
+    "slug": "study-tools",
+    "parent": "education-and-learning",
+    "level": 2,
+    "description": "Flashcards, revision plans, and practice questions.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Course creation",
+    "slug": "course-creation",
+    "parent": "education-and-learning",
+    "level": 2,
+    "description": "Building lessons, curricula, and learning materials.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Lesson planning",
+    "slug": "lesson-planning",
+    "parent": "education-and-learning",
+    "level": 2,
+    "description": "Preparing what happens in a class.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Assessment and marking",
+    "slug": "assessment-and-marking",
+    "parent": "education-and-learning",
+    "level": 2,
+    "description": "Setting and grading work against criteria.",
+    "aliases": [
+      "grading"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Language learning",
+    "slug": "language-learning",
+    "parent": "education-and-learning",
+    "level": 2,
+    "description": "Practising a language with feedback.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Corporate training",
+    "slug": "corporate-training",
+    "parent": "education-and-learning",
+    "level": 2,
+    "description": "Onboarding, compliance, and skills development at work.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Business and finance",
+    "slug": "business-and-finance",
+    "parent": null,
+    "level": 1,
+    "description": "Running the organisation: money, people, contracts, and obligations.",
+    "aliases": [],
+    "children": [
+      "accounting-and-bookkeeping",
+      "invoicing-and-payments",
+      "financial-analysis",
+      "legal-work",
+      "human-resources",
+      "procurement-and-vendors",
+      "compliance-and-risk",
+      "ecommerce-operations"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Accounting and bookkeeping",
+    "slug": "accounting-and-bookkeeping",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Recording, reconciling, and reporting on money.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Invoicing and payments",
+    "slug": "invoicing-and-payments",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Billing customers, chasing payment, and reconciling what arrives.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Financial analysis",
+    "slug": "financial-analysis",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Modelling, forecasting, and interpreting financial data.",
+    "aliases": [
+      "fp&a"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Legal work",
+    "slug": "legal-work",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Drafting, reviewing, and researching legal material.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Human resources",
+    "slug": "human-resources",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Hiring, onboarding, and people operations.",
+    "aliases": [
+      "recruiting"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Procurement and vendors",
+    "slug": "procurement-and-vendors",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Sourcing, contracting, and managing suppliers.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Compliance and risk",
+    "slug": "compliance-and-risk",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Meeting obligations and evidencing that you did.",
+    "aliases": [
+      "governance"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Ecommerce operations",
+    "slug": "ecommerce-operations",
+    "parent": "business-and-finance",
+    "level": 2,
+    "description": "Catalogue, merchandising, fulfilment, and returns.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Health and lifestyle",
+    "slug": "health-and-lifestyle",
+    "parent": null,
+    "level": 1,
+    "description": "Personal wellbeing and daily life.",
+    "aliases": [],
+    "children": [
+      "fitness-and-nutrition",
+      "mental-wellbeing",
+      "clinical-documentation",
+      "travel-planning",
+      "home-and-personal-life",
+      "accessibility"
+    ],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Fitness and nutrition",
+    "slug": "fitness-and-nutrition",
+    "parent": "health-and-lifestyle",
+    "level": 2,
+    "description": "Training plans, food logging, and coaching.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Mental wellbeing",
+    "slug": "mental-wellbeing",
+    "parent": "health-and-lifestyle",
+    "level": 2,
+    "description": "Journalling, reflection, and supportive conversation.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Clinical documentation",
+    "slug": "clinical-documentation",
+    "parent": "health-and-lifestyle",
+    "level": 2,
+    "description": "Producing notes and records from a consultation.",
+    "aliases": [
+      "medical scribe"
+    ],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Travel planning",
+    "slug": "travel-planning",
+    "parent": "health-and-lifestyle",
+    "level": 2,
+    "description": "Itineraries, booking, and destination research.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Home and personal life",
+    "slug": "home-and-personal-life",
+    "parent": "health-and-lifestyle",
+    "level": 2,
+    "description": "Cooking, shopping, admin, and household organisation.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  },
+  {
+    "name": "Accessibility",
+    "slug": "accessibility",
+    "parent": "health-and-lifestyle",
+    "level": 2,
+    "description": "Captioning, description, and adaptation for disabled users.",
+    "aliases": [],
+    "children": [],
+    "last_reviewed": "2026-08-21"
+  }
+]

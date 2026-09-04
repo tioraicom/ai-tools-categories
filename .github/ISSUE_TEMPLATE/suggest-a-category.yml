@@ -1,0 +1,135 @@
+name: Suggest a category
+description: Propose a category for this dataset
+title: "[Category] "
+labels:
+  - suggestion
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion. Please search the data file first — the same idea is
+        often already there under a different name, in which case the useful contribution
+        is adding yours as an alias.
+
+        Read [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) for what qualifies.
+
+  - type: input
+    id: term
+    attributes:
+      label: "Category"
+      description: >-
+        Sentence case, named by the job it does rather than the technology behind it.
+      placeholder: "Meeting assistants"
+    validations:
+      required: true
+
+  - type: input
+    id: aliases
+    attributes:
+      label: Other names for it
+      description: >-
+        Other names for the same category, comma separated, including American spellings and abbreviations. Leave blank if there are none.
+      placeholder: "meeting notes, call recording"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      description: Pick the single best fit. One category per category.
+      options:
+        - Writing and content
+        - Image generation and editing
+        - Video
+        - Audio, music, and voice
+        - Coding and development
+        - Developer infrastructure and models
+        - Chatbots and assistants
+        - Automation and agents
+        - Productivity and workflow
+        - Presentations and documents
+        - Design and creative
+        - Marketing and advertising
+        - SEO and search
+        - Sales and CRM
+        - Customer support
+        - Data and analytics
+        - Research and knowledge
+        - Education and learning
+        - Business and finance
+        - Health and lifestyle
+        - None of these fit
+    validations:
+      required: true
+
+  - type: textarea
+    id: short
+    attributes:
+      label: Description
+      description: >-
+        One sentence, 5 to 22 words, ending in a full stop. What work belongs in this category.
+      placeholder: "Recording, transcribing, and summarising meetings."
+    validations:
+      required: true
+
+  - type: textarea
+    id: definition
+    attributes:
+      label: Where it sits, and what comes out of
+      description: >-
+        Which top-level category is the parent, and which existing subcategories would lose entries to it. A category that takes nothing from anything is usually not a real one.
+    validations:
+      required: true
+
+  # Repository-specific required fields go here, after the long field and before Why it
+  # belongs (CLAUDE.md section 23). Keep everything below unchanged.
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why it belongs
+      description: >-
+        Where would a reader meet this category, and what does it cover that the
+        existing entries do not? Concrete beats enthusiastic.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to this category
+      description: >-
+        Disclosure is required. It will not count against the submission — undisclosed
+        promotion found later will.
+      options:
+        - No relationship
+        - I use it in my own work
+        - I work with or for a company that uses it in its product or marketing
+        - I represent such a company as an agency, reseller, or marketer
+        - I coined it, or I am on the team that did
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have searched the data file for this category and for the other names it goes by.
+          required: true
+        - label: This is a concept, not a product, a company, or a model release.
+          required: true
+        - label: The wording is my own, not copied from another published source.
+          required: true
+        - label: At least a handful of distinct products, from different makers, would sit in this category.
+          required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: >-
+        Optional. Products that would sit here, or a note on why the boundary is awkward.
+    validations:
+      required: false

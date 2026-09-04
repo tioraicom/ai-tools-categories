@@ -1,0 +1,183 @@
+slug,name,parent,level,description,aliases,children,last_reviewed
+writing-and-content,Writing and content,,1,"Drafting, editing, and producing written material.",,long-form-writing; copywriting; grammar-and-style-checking; paraphrasing-and-rewriting; summarisation; translation-and-localisation; scriptwriting; academic-and-technical-writing; ai-content-detection,2026-08-21
+long-form-writing,Long-form writing,writing-and-content,2,"Drafting articles, reports, books, and other extended pieces.",article writing,,2026-08-21
+copywriting,Copywriting,writing-and-content,2,"Short persuasive text for ads, landing pages, product pages, and email.",,,2026-08-21
+grammar-and-style-checking,Grammar and style checking,writing-and-content,2,Correcting mechanics and enforcing a consistent house style.,proofreading,,2026-08-21
+paraphrasing-and-rewriting,Paraphrasing and rewriting,writing-and-content,2,"Restating existing text at a different length, register, or reading level.",rewriter,,2026-08-21
+summarisation,Summarisation,writing-and-content,2,"Condensing documents, transcripts, or threads into their substance.",summarization; summarizer,,2026-08-21
+translation-and-localisation,Translation and localisation,writing-and-content,2,Moving text between languages and adapting it for a local audience.,localization; machine translation,,2026-08-21
+scriptwriting,Scriptwriting,writing-and-content,2,"Writing for video, podcast, and spoken delivery.",screenwriting,,2026-08-21
+academic-and-technical-writing,Academic and technical writing,writing-and-content,2,"Papers, documentation, and other writing with citation or precision demands.",,,2026-08-21
+ai-content-detection,AI content detection,writing-and-content,2,Estimating whether a passage was machine written.,ai detector,,2026-08-21
+image-generation-and-editing,Image generation and editing,,1,Creating and altering still images.,,text-to-image; image-editing; background-removal; upscaling-and-restoration; product-photography; headshots-and-avatars; logo-and-brand-assets; image-apis,2026-08-21
+text-to-image,Text to image,image-generation-and-editing,2,Generating an image from a written description.,ai art generator,,2026-08-21
+image-editing,Image editing,image-generation-and-editing,2,"Altering an existing image, including inpainting and object removal.",,,2026-08-21
+background-removal,Background removal,image-generation-and-editing,2,Separating a subject from its background.,cutout,,2026-08-21
+upscaling-and-restoration,Upscaling and restoration,image-generation-and-editing,2,Raising resolution and repairing damaged or low-quality images.,super resolution,,2026-08-21
+product-photography,Product photography,image-generation-and-editing,2,Producing or improving catalogue and ecommerce imagery.,,,2026-08-21
+headshots-and-avatars,Headshots and avatars,image-generation-and-editing,2,Generating portraits of a person from supplied photographs.,,,2026-08-21
+logo-and-brand-assets,Logo and brand assets,image-generation-and-editing,2,"Marks, icons, and vector assets for an identity.",,,2026-08-21
+image-apis,Image APIs,image-generation-and-editing,2,Programmatic access to generation and editing models.,,,2026-08-21
+video,Video,,1,"Producing, editing, and repurposing moving pictures.",,text-to-video; video-editing; ai-avatars-and-presenters; dubbing-and-subtitling; clipping-and-repurposing; animation-and-motion; video-enhancement; video-apis,2026-08-21
+text-to-video,Text to video,video,2,Generating footage from a written description.,,,2026-08-21
+video-editing,Video editing,video,2,"Cutting, assembling, and correcting existing footage.",,,2026-08-21
+ai-avatars-and-presenters,AI avatars and presenters,video,2,Synthetic on-camera presenters delivering a script.,talking head,,2026-08-21
+dubbing-and-subtitling,Dubbing and subtitling,video,2,Translating spoken audio and matching it to the picture.,lip sync; captions,,2026-08-21
+clipping-and-repurposing,Clipping and repurposing,video,2,Cutting long footage into short vertical pieces.,shorts,,2026-08-21
+animation-and-motion,Animation and motion,video,2,"Animating stills, characters, and motion graphics.",motion capture,,2026-08-21
+video-enhancement,Video enhancement,video,2,"Upscaling, stabilising, denoising, and interpolating footage.",,,2026-08-21
+video-apis,Video APIs,video,2,Programmatic access to video generation and processing.,,,2026-08-21
+audio-music-and-voice,"Audio, music, and voice",,1,"Speech, sound, music, and everything else heard rather than read.",,text-to-speech; speech-to-text; voice-cloning; music-generation; audio-enhancement; audio-editing-and-mastering; podcast-production; voice-agents; speech-apis,2026-08-21
+text-to-speech,Text to speech,audio-music-and-voice,2,Turning written text into spoken audio.,tts; voice generation,,2026-08-21
+speech-to-text,Speech to text,audio-music-and-voice,2,Turning spoken audio into written text.,transcription; asr,,2026-08-21
+voice-cloning,Voice cloning,audio-music-and-voice,2,Recreating a specific voice from a sample.,voice changer,,2026-08-21
+music-generation,Music generation,audio-music-and-voice,2,Composing or producing music and sound beds.,,,2026-08-21
+audio-enhancement,Audio enhancement,audio-music-and-voice,2,"Removing noise, echo, and artefacts from recordings.",noise removal,,2026-08-21
+audio-editing-and-mastering,Audio editing and mastering,audio-music-and-voice,2,"Assembling, balancing, and finishing audio.",,,2026-08-21
+podcast-production,Podcast production,audio-music-and-voice,2,"Recording, editing, and publishing spoken-word shows.",,,2026-08-21
+voice-agents,Voice agents,audio-music-and-voice,2,Systems that hold a spoken conversation and take action.,voice bot,,2026-08-21
+speech-apis,Speech APIs,audio-music-and-voice,2,Programmatic access to speech recognition and synthesis.,,,2026-08-21
+coding-and-development,Coding and development,,1,"Writing, reviewing, testing, and shipping software.",,code-completion; ai-code-editors; coding-agents; code-review; testing-and-qa; debugging; documentation; terminal-assistants; database-and-sql; devops-and-infrastructure; application-security; frontend-and-ui-generation,2026-08-21
+code-completion,Code completion,coding-and-development,2,Suggesting the next lines as a developer types.,autocomplete,,2026-08-21
+ai-code-editors,AI code editors,coding-and-development,2,Editors and IDEs built around a model.,,,2026-08-21
+coding-agents,Coding agents,coding-and-development,2,Systems that carry out a coding task across several files.,,,2026-08-21
+code-review,Code review,coding-and-development,2,Automated review of changes before they merge.,,,2026-08-21
+testing-and-qa,Testing and QA,coding-and-development,2,"Generating, maintaining, and running tests.",,,2026-08-21
+debugging,Debugging,coding-and-development,2,Locating and explaining defects in running software.,,,2026-08-21
+documentation,Documentation,coding-and-development,2,Generating and maintaining developer documentation.,,,2026-08-21
+terminal-assistants,Terminal assistants,coding-and-development,2,Model-backed tools driven from a command line.,cli,,2026-08-21
+database-and-sql,Database and SQL,coding-and-development,2,"Writing queries, designing schemas, and explaining plans.",text to sql,,2026-08-21
+devops-and-infrastructure,DevOps and infrastructure,coding-and-development,2,"CI/CD, infrastructure as code, incidents, and operations.",sre,,2026-08-21
+application-security,Application security,coding-and-development,2,Finding and fixing vulnerabilities in code and dependencies.,appsec,,2026-08-21
+frontend-and-ui-generation,Frontend and UI generation,coding-and-development,2,Producing interface code from a design or a description.,,,2026-08-21
+developer-infrastructure-and-models,Developer infrastructure and models,,1,What an AI application is built on.,,model-apis; model-hosting-and-serving; llm-gateways; vector-databases; rag-frameworks; agent-frameworks; evaluation-platforms; observability-and-tracing; guardrails-and-moderation; fine-tuning-platforms; prompt-management; synthetic-data,2026-08-21
+model-apis,Model APIs,developer-infrastructure-and-models,2,"Hosted access to language, image, speech, and embedding models.",,,2026-08-21
+model-hosting-and-serving,Model hosting and serving,developer-infrastructure-and-models,2,Running models on managed or self-operated infrastructure.,inference,,2026-08-21
+llm-gateways,LLM gateways,developer-infrastructure-and-models,2,A single endpoint in front of several model providers.,proxy; router,,2026-08-21
+vector-databases,Vector databases,developer-infrastructure-and-models,2,Storage and nearest-neighbour search over embeddings.,vector store,,2026-08-21
+rag-frameworks,RAG frameworks,developer-infrastructure-and-models,2,Libraries for retrieval-augmented generation pipelines.,,,2026-08-21
+agent-frameworks,Agent frameworks,developer-infrastructure-and-models,2,Libraries for building systems that plan and use tools.,,,2026-08-21
+evaluation-platforms,Evaluation platforms,developer-infrastructure-and-models,2,Measuring output quality against datasets and rubrics.,evals,,2026-08-21
+observability-and-tracing,Observability and tracing,developer-infrastructure-and-models,2,"Recording prompts, tool calls, cost, and latency per request.",llmops,,2026-08-21
+guardrails-and-moderation,Guardrails and moderation,developer-infrastructure-and-models,2,Constraining what goes into and out of a model.,,,2026-08-21
+fine-tuning-platforms,Fine-tuning platforms,developer-infrastructure-and-models,2,Adapting a base model to a task or a house style.,,,2026-08-21
+prompt-management,Prompt management,developer-infrastructure-and-models,2,"Versioning, testing, and deploying prompts as artefacts.",,,2026-08-21
+synthetic-data,Synthetic data,developer-infrastructure-and-models,2,Generating training and evaluation data.,,,2026-08-21
+chatbots-and-assistants,Chatbots and assistants,,1,"General conversational systems, and the interfaces people meet a model through.",,general-assistants; answer-engines; multi-model-platforms; character-and-roleplay; local-and-private-assistants; custom-assistant-builders; browser-assistants,2026-08-21
+general-assistants,General assistants,chatbots-and-assistants,2,Broad conversational products for everyday use.,ai chatbot,,2026-08-21
+answer-engines,Answer engines,chatbots-and-assistants,2,Search that returns a written answer with sources.,ai search,,2026-08-21
+multi-model-platforms,Multi-model platforms,chatbots-and-assistants,2,Interfaces offering several providers' models side by side.,,,2026-08-21
+character-and-roleplay,Character and roleplay,chatbots-and-assistants,2,Persona-driven conversation and interactive fiction.,,,2026-08-21
+local-and-private-assistants,Local and private assistants,chatbots-and-assistants,2,Assistants running on the user's own hardware.,offline ai,,2026-08-21
+custom-assistant-builders,Custom assistant builders,chatbots-and-assistants,2,No-code tools for building a branded assistant.,gpt builder,,2026-08-21
+browser-assistants,Browser assistants,chatbots-and-assistants,2,Assistants that work inside the web browser.,browser extension,,2026-08-21
+automation-and-agents,Automation and agents,,1,Work that runs without a person driving each step.,,workflow-automation; browser-and-web-automation; robotic-process-automation; task-and-research-agents; internal-tools-and-app-builders; document-and-data-entry-automation; email-automation,2026-08-21
+workflow-automation,Workflow automation,automation-and-agents,2,Connecting applications so a trigger causes a sequence of actions.,ipaas,,2026-08-21
+browser-and-web-automation,Browser and web automation,automation-and-agents,2,Driving a browser to gather data or complete tasks.,web scraping,,2026-08-21
+robotic-process-automation,Robotic process automation,automation-and-agents,2,Automating work across desktop and enterprise applications.,rpa,,2026-08-21
+task-and-research-agents,Task and research agents,automation-and-agents,2,Agents that pursue a goal across several tools.,,,2026-08-21
+internal-tools-and-app-builders,Internal tools and app builders,automation-and-agents,2,Building internal interfaces over existing data.,no-code,,2026-08-21
+document-and-data-entry-automation,Document and data entry automation,automation-and-agents,2,Extracting structured data from documents into systems.,idp,,2026-08-21
+email-automation,Email automation,automation-and-agents,2,"Triage, drafting, and routing of inbox work.",,,2026-08-21
+productivity-and-workflow,Productivity and workflow,,1,"Getting personal and team work done: notes, meetings, mail, tasks, and time.",,note-taking; knowledge-management; meeting-assistants; task-and-project-management; calendar-and-scheduling; email-assistants; workplace-search; personal-automation,2026-08-21
+note-taking,Note taking,productivity-and-workflow,2,Capturing and organising written notes.,,,2026-08-21
+knowledge-management,Knowledge management,productivity-and-workflow,2,"Connecting notes, documents, and references into something searchable.",second brain,,2026-08-21
+meeting-assistants,Meeting assistants,productivity-and-workflow,2,"Recording, transcribing, and summarising meetings.",meeting notes,,2026-08-21
+task-and-project-management,Task and project management,productivity-and-workflow,2,"Planning, assigning, and tracking work.",,,2026-08-21
+calendar-and-scheduling,Calendar and scheduling,productivity-and-workflow,2,Arranging time and coordinating availability.,,,2026-08-21
+email-assistants,Email assistants,productivity-and-workflow,2,"Drafting, summarising, and prioritising mail.",,,2026-08-21
+workplace-search,Workplace search,productivity-and-workflow,2,Searching across the applications an organisation uses.,enterprise search,,2026-08-21
+personal-automation,Personal automation,productivity-and-workflow,2,Small automations for an individual's own routine.,,,2026-08-21
+presentations-and-documents,Presentations and documents,,1,Producing and working with documents.,,presentation-generation; pdf-and-document-chat; document-extraction; contract-review; document-generation; diagrams-and-whiteboards,2026-08-21
+presentation-generation,Presentation generation,presentations-and-documents,2,Building slide decks from an outline or a document.,slides,,2026-08-21
+pdf-and-document-chat,PDF and document chat,presentations-and-documents,2,Asking questions of a document and getting cited answers.,,,2026-08-21
+document-extraction,Document extraction,presentations-and-documents,2,"Pulling structured fields out of forms, invoices, and contracts.",ocr,,2026-08-21
+contract-review,Contract review,presentations-and-documents,2,"Reading agreements for terms, risks, and deviations.",,,2026-08-21
+document-generation,Document generation,presentations-and-documents,2,Assembling documents from templates and data.,,,2026-08-21
+diagrams-and-whiteboards,Diagrams and whiteboards,presentations-and-documents,2,"Producing charts, diagrams, and visual thinking surfaces.",,,2026-08-21
+design-and-creative,Design and creative,,1,Visual and product design work.,,ui-and-ux-design; prototyping; graphic-design; branding; 3d-and-modelling; interior-and-architecture; design-collaboration,2026-08-21
+ui-and-ux-design,UI and UX design,design-and-creative,2,"Interface layout, components, and interaction design.",,,2026-08-21
+prototyping,Prototyping,design-and-creative,2,Turning an idea into something clickable quickly.,,,2026-08-21
+graphic-design,Graphic design,design-and-creative,2,Layout and composition for print and screen.,,,2026-08-21
+branding,Branding,design-and-creative,2,"Identity systems, naming, and brand guidelines.",,,2026-08-21
+3d-and-modelling,3D and modelling,design-and-creative,2,Generating and editing three-dimensional assets.,text to 3d,,2026-08-21
+interior-and-architecture,Interior and architecture,design-and-creative,2,"Spaces, rendering, and architectural visualisation.",,,2026-08-21
+design-collaboration,Design collaboration,design-and-creative,2,"Reviewing, handing off, and versioning design work.",,,2026-08-21
+marketing-and-advertising,Marketing and advertising,,1,Reaching and converting an audience.,,content-marketing; social-media-management; email-marketing; advertising; conversion-optimisation; marketing-analytics; audience-research; competitive-intelligence; influencer-and-affiliate; personalisation,2026-08-21
+content-marketing,Content marketing,marketing-and-advertising,2,Planning and producing content that earns attention.,,,2026-08-21
+social-media-management,Social media management,marketing-and-advertising,2,"Scheduling, publishing, and responding across social platforms.",,,2026-08-21
+email-marketing,Email marketing,marketing-and-advertising,2,"Campaigns, sequences, and lifecycle messaging.",,,2026-08-21
+advertising,Advertising,marketing-and-advertising,2,"Creating, targeting, and optimising paid campaigns.",ppc,,2026-08-21
+conversion-optimisation,Conversion optimisation,marketing-and-advertising,2,Improving the rate at which visitors take an action.,cro,,2026-08-21
+marketing-analytics,Marketing analytics,marketing-and-advertising,2,"Attribution, reporting, and channel measurement.",,,2026-08-21
+audience-research,Audience research,marketing-and-advertising,2,Understanding who the audience is and what they want.,,,2026-08-21
+competitive-intelligence,Competitive intelligence,marketing-and-advertising,2,"Tracking what competitors publish, price, and launch.",,,2026-08-21
+influencer-and-affiliate,Influencer and affiliate,marketing-and-advertising,2,Finding and managing third-party promotion.,,,2026-08-21
+personalisation,Personalisation,marketing-and-advertising,2,Varying content and offers by visitor.,personalization,,2026-08-21
+seo-and-search,SEO and search,,1,"Being found in search, classic and generative.",,keyword-research; content-optimisation; technical-seo; internal-linking; backlinks-and-digital-pr; rank-tracking; local-seo; structured-data; ai-search-visibility; programmatic-seo,2026-08-21
+keyword-research,Keyword research,seo-and-search,2,Finding what an audience searches for and how often.,,,2026-08-21
+content-optimisation,Content optimisation,seo-and-search,2,Shaping a page to match what a query needs.,on-page seo,,2026-08-21
+technical-seo,Technical SEO,seo-and-search,2,"Crawling, indexing, structure, and page performance.",,,2026-08-21
+internal-linking,Internal linking,seo-and-search,2,Connecting pages so authority and readers flow between them.,,,2026-08-21
+backlinks-and-digital-pr,Backlinks and digital PR,seo-and-search,2,Earning and monitoring links from other sites.,link building,,2026-08-21
+rank-tracking,Rank tracking,seo-and-search,2,Monitoring position for tracked queries over time.,,,2026-08-21
+local-seo,Local SEO,seo-and-search,2,"Visibility in maps, local packs, and location queries.",,,2026-08-21
+structured-data,Structured data,seo-and-search,2,Marking pages up so machines can read their meaning.,schema markup,,2026-08-21
+ai-search-visibility,AI search visibility,seo-and-search,2,Appearing in generative answers and AI assistants.,geo; aeo,,2026-08-21
+programmatic-seo,Programmatic SEO,seo-and-search,2,Generating and maintaining pages at scale from data.,,,2026-08-21
+sales-and-crm,Sales and CRM,,1,"Finding, working, and closing revenue.",,prospecting-and-lead-generation; data-enrichment; sales-engagement; conversation-intelligence; crm-assistants; proposals-and-quoting; revenue-forecasting,2026-08-21
+prospecting-and-lead-generation,Prospecting and lead generation,sales-and-crm,2,Identifying and reaching potential buyers.,,,2026-08-21
+data-enrichment,Data enrichment,sales-and-crm,2,Filling in missing detail on people and companies.,,,2026-08-21
+sales-engagement,Sales engagement,sales-and-crm,2,Sequencing and managing outbound contact.,outbound,,2026-08-21
+conversation-intelligence,Conversation intelligence,sales-and-crm,2,Recording and analysing sales calls.,call recording,,2026-08-21
+crm-assistants,CRM assistants,sales-and-crm,2,Keeping the customer record current and useful.,,,2026-08-21
+proposals-and-quoting,Proposals and quoting,sales-and-crm,2,"Producing quotes, proposals, and pricing documents.",,,2026-08-21
+revenue-forecasting,Revenue forecasting,sales-and-crm,2,Predicting pipeline outcomes and quota attainment.,,,2026-08-21
+customer-support,Customer support,,1,Answering and resolving customer problems.,,support-chatbots; helpdesk-assistants; knowledge-base-tools; voice-support; quality-assurance; customer-feedback-analysis,2026-08-21
+support-chatbots,Support chatbots,customer-support,2,Automated answering of customer questions.,deflection,,2026-08-21
+helpdesk-assistants,Helpdesk assistants,customer-support,2,"Drafting, summarising, and routing inside a ticketing system.",,,2026-08-21
+knowledge-base-tools,Knowledge base tools,customer-support,2,Writing and maintaining the articles support answers from.,,,2026-08-21
+voice-support,Voice support,customer-support,2,Handling inbound and outbound calls.,ivr,,2026-08-21
+quality-assurance,Quality assurance,customer-support,2,Scoring conversations against a rubric.,support qa,,2026-08-21
+customer-feedback-analysis,Customer feedback analysis,customer-support,2,"Finding themes across reviews, tickets, and surveys.",voice of customer,,2026-08-21
+data-and-analytics,Data and analytics,,1,"Turning data into answers, from preparation through analysis to a chart.",,business-intelligence; conversational-analytics; data-preparation; spreadsheets; data-visualisation; predictive-modelling; web-and-product-analytics,2026-08-21
+business-intelligence,Business intelligence,data-and-analytics,2,"Dashboards, metrics, and self-serve reporting.",bi,,2026-08-21
+conversational-analytics,Conversational analytics,data-and-analytics,2,Asking questions of a dataset in plain language.,,,2026-08-21
+data-preparation,Data preparation,data-and-analytics,2,"Cleaning, joining, and reshaping data for use.",etl,,2026-08-21
+spreadsheets,Spreadsheets,data-and-analytics,2,"Formula help, analysis, and automation inside a sheet.",,,2026-08-21
+data-visualisation,Data visualisation,data-and-analytics,2,Charting and presenting quantitative findings.,visualization,,2026-08-21
+predictive-modelling,Predictive modelling,data-and-analytics,2,Forecasting and scoring from historical data.,machine learning,,2026-08-21
+web-and-product-analytics,Web and product analytics,data-and-analytics,2,Measuring behaviour in a site or product.,,,2026-08-21
+research-and-knowledge,Research and knowledge,,1,"Finding, reading, and synthesising sources.",,deep-research-agents; academic-search; citation-management; literature-review; paper-reading; market-research; fact-checking; survey-and-qualitative-research,2026-08-21
+deep-research-agents,Deep research agents,research-and-knowledge,2,Multi-step research producing a cited report.,,,2026-08-21
+academic-search,Academic search,research-and-knowledge,2,"Searching the scholarly literature by paper, author, and citation.",paper search,,2026-08-21
+citation-management,Citation management,research-and-knowledge,2,Collecting references and formatting them.,reference manager,,2026-08-21
+literature-review,Literature review,research-and-knowledge,2,Screening and synthesising evidence across many papers.,,,2026-08-21
+paper-reading,Paper reading,research-and-knowledge,2,Explaining and interrogating a single document.,,,2026-08-21
+market-research,Market research,research-and-knowledge,2,"Sizing, segmenting, and understanding a market.",,,2026-08-21
+fact-checking,Fact checking,research-and-knowledge,2,Verifying claims against sources and flagging the ones that do not hold.,,,2026-08-21
+survey-and-qualitative-research,Survey and qualitative research,research-and-knowledge,2,Designing studies and analysing open-ended responses.,,,2026-08-21
+education-and-learning,Education and learning,,1,"Teaching, studying, and training, in classrooms and at work.",,tutoring-and-explanation; study-tools; course-creation; lesson-planning; assessment-and-marking; language-learning; corporate-training,2026-08-21
+tutoring-and-explanation,Tutoring and explanation,education-and-learning,2,Working through a subject with a learner.,homework help,,2026-08-21
+study-tools,Study tools,education-and-learning,2,"Flashcards, revision plans, and practice questions.",,,2026-08-21
+course-creation,Course creation,education-and-learning,2,"Building lessons, curricula, and learning materials.",,,2026-08-21
+lesson-planning,Lesson planning,education-and-learning,2,Preparing what happens in a class.,,,2026-08-21
+assessment-and-marking,Assessment and marking,education-and-learning,2,Setting and grading work against criteria.,grading,,2026-08-21
+language-learning,Language learning,education-and-learning,2,Practising a language with feedback.,,,2026-08-21
+corporate-training,Corporate training,education-and-learning,2,"Onboarding, compliance, and skills development at work.",,,2026-08-21
+business-and-finance,Business and finance,,1,"Running the organisation: money, people, contracts, and obligations.",,accounting-and-bookkeeping; invoicing-and-payments; financial-analysis; legal-work; human-resources; procurement-and-vendors; compliance-and-risk; ecommerce-operations,2026-08-21
+accounting-and-bookkeeping,Accounting and bookkeeping,business-and-finance,2,"Recording, reconciling, and reporting on money.",,,2026-08-21
+invoicing-and-payments,Invoicing and payments,business-and-finance,2,"Billing customers, chasing payment, and reconciling what arrives.",,,2026-08-21
+financial-analysis,Financial analysis,business-and-finance,2,"Modelling, forecasting, and interpreting financial data.",fp&a,,2026-08-21
+legal-work,Legal work,business-and-finance,2,"Drafting, reviewing, and researching legal material.",,,2026-08-21
+human-resources,Human resources,business-and-finance,2,"Hiring, onboarding, and people operations.",recruiting,,2026-08-21
+procurement-and-vendors,Procurement and vendors,business-and-finance,2,"Sourcing, contracting, and managing suppliers.",,,2026-08-21
+compliance-and-risk,Compliance and risk,business-and-finance,2,Meeting obligations and evidencing that you did.,governance,,2026-08-21
+ecommerce-operations,Ecommerce operations,business-and-finance,2,"Catalogue, merchandising, fulfilment, and returns.",,,2026-08-21
+health-and-lifestyle,Health and lifestyle,,1,Personal wellbeing and daily life.,,fitness-and-nutrition; mental-wellbeing; clinical-documentation; travel-planning; home-and-personal-life; accessibility,2026-08-21
+fitness-and-nutrition,Fitness and nutrition,health-and-lifestyle,2,"Training plans, food logging, and coaching.",,,2026-08-21
+mental-wellbeing,Mental wellbeing,health-and-lifestyle,2,"Journalling, reflection, and supportive conversation.",,,2026-08-21
+clinical-documentation,Clinical documentation,health-and-lifestyle,2,Producing notes and records from a consultation.,medical scribe,,2026-08-21
+travel-planning,Travel planning,health-and-lifestyle,2,"Itineraries, booking, and destination research.",,,2026-08-21
+home-and-personal-life,Home and personal life,health-and-lifestyle,2,"Cooking, shopping, admin, and household organisation.",,,2026-08-21
+accessibility,Accessibility,health-and-lifestyle,2,"Captioning, description, and adaptation for disabled users.",,,2026-08-21

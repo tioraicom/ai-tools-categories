@@ -24,7 +24,7 @@ repositories disagree with each other in public.
 Maintained by [TiorAI](https://tiorai.com/), which catalogues AI tools for a living.
 
 <!-- last-reviewed:start -->
-**Last reviewed:** 2026-09-04
+**Last reviewed:** 2026-09-05
 <!-- last-reviewed:end -->
 
 ## Contents

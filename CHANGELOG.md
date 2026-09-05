@@ -4,7 +4,7 @@ Notable changes to this taxonomy. Typo fixes and small wording tweaks are not lo
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## 1.1.0 — 2026-09-04
+## 1.1.0 — 2026-09-05
 
 ### Added
 
@@ -25,7 +25,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - The top-level-only summary table, superseded by the full listing. Reading the taxonomy no
   longer requires downloading a data file.
 
-## 1.0.0 — 2026-09-04
+## 1.0.0 — 2026-09-05
 
 Initial public-ready release.
 
